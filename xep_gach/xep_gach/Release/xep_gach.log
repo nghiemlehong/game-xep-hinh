@@ -1,0 +1,14 @@
+﻿  bang.cpp
+bang.cpp(63): warning C4309: 'initializing': truncation of constant value
+  diem.cpp
+diem.cpp(107): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  dohoa.cpp
+  gach.cpp
+  main.cpp
+main.cpp(44): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+d:\xep_gach\xep_gach\gach.cpp(140): warning C4715: 'Gach::loaiGach': not all control paths return a value
+  All 63 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  xep_gach.vcxproj -> D:\xep_gach\Release\xep_gach.exe
+  xep_gach.vcxproj -> D:\xep_gach\Release\xep_gach.pdb (Full PDB)
